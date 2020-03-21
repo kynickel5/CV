@@ -1,0 +1,31 @@
+body {
+  background-color: #bbe1fa;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  border-color: black;
+  width: 5%;
+
+}
+
+h2 {
+  display: none;
+}
+
+img:hover + h2{
+  display: block;
+}
+
+h1 {
+  color: #1b262c;
+}
+
+h3 {
+  color: #1b262c;
+}
+
+div {
+  border: 2px solid black;
+}
